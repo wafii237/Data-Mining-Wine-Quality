@@ -15,7 +15,6 @@ Membangun model klasifikasi untuk memprediksi `quality` (kualitas anggur) berdas
 |---|---|
 | `UTS_DataMining_WineQuality.ipynb` | Notebook analisis lengkap beserta penjelasan dan interpretasi setiap langkah |
 | `hasilprediksi_028.csv` | Hasil prediksi data testing (hanya kolom `Id` dan `Quality`) |
-| `model_wine_quality.joblib` | Model terlatih yang disimpan untuk deployment pada data testing |
 
 ## Dataset
 
